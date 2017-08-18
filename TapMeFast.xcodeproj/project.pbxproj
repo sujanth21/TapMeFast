@@ -12,6 +12,7 @@
 		83FE26331F4712C900EAC61B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83FE26311F4712C900EAC61B /* Main.storyboard */; };
 		83FE26351F4712C900EAC61B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83FE26341F4712C900EAC61B /* Assets.xcassets */; };
 		83FE26381F4712C900EAC61B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83FE26361F4712C900EAC61B /* LaunchScreen.storyboard */; };
+		83FE26401F47A20300EAC61B /* PORKYS_.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 83FE263F1F47A20300EAC61B /* PORKYS_.TTF */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		83FE26341F4712C900EAC61B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83FE26371F4712C900EAC61B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83FE26391F4712C900EAC61B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83FE263F1F47A20300EAC61B /* PORKYS_.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = PORKYS_.TTF; path = "../../../../../../Downloads/Tap Me Fast/PORKYS_.TTF"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				83FE26341F4712C900EAC61B /* Assets.xcassets */,
 				83FE26361F4712C900EAC61B /* LaunchScreen.storyboard */,
 				83FE26391F4712C900EAC61B /* Info.plist */,
+				83FE263F1F47A20300EAC61B /* PORKYS_.TTF */,
 			);
 			path = TapMeFast;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				83FE26381F4712C900EAC61B /* LaunchScreen.storyboard in Resources */,
 				83FE26351F4712C900EAC61B /* Assets.xcassets in Resources */,
+				83FE26401F47A20300EAC61B /* PORKYS_.TTF in Resources */,
 				83FE26331F4712C900EAC61B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
